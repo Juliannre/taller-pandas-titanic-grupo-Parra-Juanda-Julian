@@ -1,2 +1,12 @@
-data/*.csv
+# Datos que no queremos subir a GitHub
+data/train.csv
+data/test.csv
+data/gender_submission.csv
+
+# Archivos basura de Jupyter
 .ipynb_checkpoints/
+__pycache__/
+
+#Configuraciones locales
+.DS_Store
+Thumbs.db
