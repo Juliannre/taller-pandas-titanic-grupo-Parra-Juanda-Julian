@@ -1,0 +1,8 @@
+#Requerimientos para poder trabajar en el proyecto:
+pandas
+Numpy
+Matplotlib
+Seaborn
+
+# Nota: Para instalar todas estas librerías, ejecuta:
+# pip install -r requirements.txt
