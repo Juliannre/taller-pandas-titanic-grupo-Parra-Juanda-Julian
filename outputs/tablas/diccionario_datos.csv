@@ -1,0 +1,13 @@
+Variable,Descripción
+PassengerId,Identificador único
+Survived,"0 = No sobrevivió, 1 = Sobrevivió"
+Pclass,"1 = 1ª Clase, 2 = 2ª Clase, 3 = 3ª Clase"
+Name,Nombre y título
+Sex,Género
+Age,Edad en años
+SibSp,Nº de hermanos/cónyuges a bordo
+Parch,Nº de padres/hijos a bordo
+Ticket,Número del ticket
+Fare,Tarifa pagada
+Cabin,Número de camarote
+Embarked,"Puerto de embarque (C, Q, S)"
