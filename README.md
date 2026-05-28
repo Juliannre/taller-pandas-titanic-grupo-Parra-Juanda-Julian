@@ -1,11 +1,11 @@
 # Análisis de Datos del Titanic 
 
-¡Hola! Este es el repositorio oficial de nuestro proyecto. Aquí realizamos un análisis completo sobre el famoso naufragio del Titanic, utilizando Python y la librería Pandas para entender qué factores influyeron en la supervivencia de los pasajeros.
+Este es el repositorio oficial de nuestro proyecto. Aquí realizamos un análisis completo sobre el Titanic, utilizando Python y la librería Pandas para entender qué factores influyeron en la supervivencia de los pasajeros.
 
 ## Integrantes 
-* **Juan David Prieto**
-* **Julián Reyez**
-* **Juan Andrés Parra**
+* **Juan David Prieto**: Lider del Repositorio
+* **Julián Reyez**: Lider de Datos
+* **Juan Andrés Parra**: Lider de Reporte
 
 ## Objetivos del Trabajo
 * Aplicar herramientas de programación en Python para analizar bases de datos reales.
